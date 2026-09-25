@@ -1,4 +1,4 @@
-# ⚽ Marco Miguel
+# ⚽# :signal_strength: Cómo conectarse a la red Wi-fi Del centro Marco Miguel
 
 ---
 
