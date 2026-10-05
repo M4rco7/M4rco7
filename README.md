@@ -6,7 +6,7 @@
 
 * 🎓 Estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 * 💻 Interesado en el desarrollo **web y software**
-* 🚀 Actualmente aprendiendo *JavaScript*
+* 🚀 Actualmente aprendiendo a programar*Java*
 * 🎯 Objetivo: convertirme en desarrollador profesional
 
 ---
@@ -17,7 +17,7 @@
 | ------------ | ----------- |
 | HTML         | Básico      |
 | CSS          | Básico      |
-| JavaScript   | En progreso |
+| Java         | En progreso |
 
 ---
 
@@ -45,7 +45,7 @@ _"A la hora de crecer solo tenemos que compararnos con alguien, nuestro ayer"_
 
 Estoy aprendiendo **mucho** y esto es *solo el comienzo* 😄
 
-Puede que este año haya habido muchos altibajos en mi vida, pero se que al final me voy a levantar siempre.
+Este año vas a ser muy grande, cogeré todo lo que aprendí el curso anterior mas lo que aprenda en este para tener unas grandes notas.
 
 ---
 🔗Añado README de perfil
