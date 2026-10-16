@@ -6,7 +6,7 @@
 
 * 🎓 Estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 * 💻 Interesado en el desarrollo **web y software**
-* 🚀 Actualmente aprendiendo a programar*Java*
+* 🚀 Actualmente aprendiendo a programar *Java*
 * 🎯 Objetivo: convertirme en desarrollador profesional
 
 ---
