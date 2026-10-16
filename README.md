@@ -43,8 +43,8 @@ Este año vas a ser muy grande, cogeré todo lo que aprendí el curso anterior m
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/M4rco7))
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/marco-miguel-garc%C3%ADa-168332353/))
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/M4rco7)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/marco-miguel-garc%C3%ADa-168332353/)
 
 🔗Añado README de perfil
 Inspiración:
