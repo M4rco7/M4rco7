@@ -42,7 +42,7 @@ Estoy aprendiendo **mucho** y esto es *solo el comienzo* 😄
 Este año vas a ser muy grande, cogeré todo lo que aprendí el curso anterior mas lo que aprenda en este para tener unas grandes notas.
 
 ---
-
+## 📱 Mis redes de contacto
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4rco7)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-miguel-garc%C3%ADa-168332353/)
